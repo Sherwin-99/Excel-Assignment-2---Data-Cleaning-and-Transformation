@@ -1,8 +1,6 @@
 # Excel-Assignment-2---Data-Cleaning-and-Transformation
 Cleaned &amp; transformed a product dataset in Excel using Power Query: handled missing values, fixed inconsistent text/typos, removed duplicates, split/merged columns, and applied currency &amp; conditional formatting for clear, analysis-ready data. #Excel #PowerQuery #DataCleaning
-Here's the updated README with a "Learnings" section added:
 
-**Excel Data Cleaning Assignment
 About This Project**
 
 For this assignment, I worked with a raw product dataset that had a bunch of common real-world data issues — missing values, inconsistent text formatting, typos, and duplicate rows — and cleaned it all up using Excel and Power Query.
