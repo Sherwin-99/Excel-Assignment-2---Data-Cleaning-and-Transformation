@@ -8,6 +8,7 @@ About This Project**
 For this assignment, I worked with a raw product dataset that had a bunch of common real-world data issues — missing values, inconsistent text formatting, typos, and duplicate rows — and cleaned it all up using Excel and Power Query.
 
 **What I Did**
+
 I started by checking the Price column for missing values and filled them in using the average price, calculated through Power Query's statistics feature. For missing categories, I first fixed inconsistent labeling (like "Electronic" showing up instead of "Electronics"), then used Group By to find the most common category and used that to fill in the gaps.
 
 Next, I cleaned up the Product Name column, which had inconsistent capitalization and some repeated entries, by applying the Capitalize Each Word formatting. I also fixed typos in the Category column using Find & Replace.
